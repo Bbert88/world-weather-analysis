@@ -19,6 +19,6 @@ Please see a few of the maps showing the outcome of this project:
 
 Thank you for reading and please feel free to explore the analysis files: 
 
-[code](/Vacation_Search/Vacation_Search.ipynb)
+[Vacation Search Analysis](/Vacation_Search/Vacation_Search.ipynb)
 
-[code](/Vacation_Itinerary/Vacation_Itinerary.ipynb)
+[Vacation Itinerary Analysis](/Vacation_Itinerary/Vacation_Itinerary.ipynb)
